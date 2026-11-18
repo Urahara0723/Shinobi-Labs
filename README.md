@@ -4,7 +4,7 @@ A Naruto-inspired personal portfolio blending **AI, creativity, and a little shi
 
 Start your journey with an animated Hidden Leaf Village entrance and explore my work in **Machine Learning, Computer Vision, Generative AI, and Agentic AI**.
 
-🔗 **Live Demo:** [Shinobi Portfolio](https://shinobi-lab-ai.fabulouspassionflower4.chatgpt.site/)
+🔗 **Live Demo:** [Shinobi Portfolio](https://urahara0723.github.io/Shinobi-Labs/)
 
 ---
 
